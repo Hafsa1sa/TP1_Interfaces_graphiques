@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:background="@color/blue"
+        android:textColor="@color/white"
+        android:layout_margin="2dp"
+        android:text="Hello Toast"/>
+
+    <Button
+        android:id="@+id/toast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_darkblue"
+        android:textColor="@color/white"
+        android:padding="20dp"
+        android:layout_margin="2dp"
+        android:text="TOAST" />
+
+    <EditText
+        android:id="@+id/increment"
+        android:layout_width="match_parent"
+        android:layout_height="468dp"
+        android:layout_margin="3dp"
+        android:background="@color/yellow"
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:ems="10"
+        android:gravity="center"
+        android:inputType="text"
+        android:padding="20dp"
+        android:text="0"
+        android:textColor="@color/blue"
+        android:textSize="100sp" />
+
+    <Button
+        android:id="@+id/count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_lightbleu"
+        android:textColor="@color/white"
+        android:layout_margin="2dp"
+        android:padding="20dp"
+        android:text="COUNT" />
+</LinearLayout>
