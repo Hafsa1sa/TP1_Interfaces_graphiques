@@ -23,6 +23,10 @@ https://github.com/user-attachments/assets/b2ff929f-9113-4500-ae38-c5b21c12ec1b
 
 ### Travail a rendre:
 Dans ce travail nous avons réaliser une interface permettant aux utilisateurs de s’inscrire dans une formation via une application mobile.Les informations entrés par l'utilisateur sont affichés dans une autre activité.
+
+
+
+
 https://github.com/user-attachments/assets/b9893606-de34-4995-ab93-87171704088a
 
 
