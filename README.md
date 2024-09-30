@@ -4,8 +4,14 @@ Ce TP1 consiste a développer des interfaces graphique avec android studio.Ansi 
 ### Exercice 1
 cet exercice permet de réaliser l'application HelloToast  qui est conçue pour afficher un message court à l'aide d'un Toast lorsque l'utilisateur clique sur le premier bouton, tandis que le deuxième bouton incrémente un compteur à chaque clic et affiche la valeur actuelle dans un TextView.
 Voici l'interface réalisé par LinearLayout:
+
+
 https://github.com/user-attachments/assets/42bef8ab-d155-4fa5-bfe3-1c40293aca23
 ET la meme interface est réalisé par ConstraintLayout:
+
+
+
+
 https://github.com/user-attachments/assets/eb7b8d2d-3e6c-4a7f-a7ff-8d0094384ab4
 
 ### Exercice 2
