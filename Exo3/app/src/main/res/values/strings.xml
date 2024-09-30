@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exo3</string>
+    <string name="label1">E-Certificate</string>
+    <string name="label2">1.Le pattern Mvc signifie:</string>
+    <string name="checkBox">Multiple Versions Combined</string>
+    <string name="checkBox2">Model View Controler</string>
+    <string name="checkBox3">Main Value Compiled</string>
+    <string name="checkBox4">Mandatory Validated Controls</string>
+    <string name="label3">2.La syntaxe $[x] est permise dans une JSP.</string>
+</resources>
